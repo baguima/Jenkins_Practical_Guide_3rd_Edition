@@ -110,7 +110,7 @@
               <failOnViolation>false</failOnViolation>
             </configuration>
             <goals>
-              <goal>package</goal>
+              <goal>check</goal>
             </goals>
           </execution>
         </executions>
